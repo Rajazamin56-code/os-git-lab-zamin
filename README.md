@@ -23,3 +23,4 @@ python hello.py
 4. Verify the installation using:
 
 git --version
+After installation, run git --version to verify Git is installed correctly.
