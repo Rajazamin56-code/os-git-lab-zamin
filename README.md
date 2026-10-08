@@ -15,3 +15,12 @@ Muhammad Zamin
 Run the Python program using:
 
 python hello.py
+## Git Installation
+
+1. Download Git from the official Git website.
+2. Install Git on your computer.
+3. Open Git Bash.
+4. Verify the installation using:
+
+git --version
+After installation, run git --version to verify Git is installed correctly.
